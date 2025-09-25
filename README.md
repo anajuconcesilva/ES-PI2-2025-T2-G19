@@ -28,3 +28,22 @@ O **NotaDez** tem como objetivo auxiliar professores do ensino superior no **ger
 - **Versionamento:** Git + GitHub  
 
 ---
+
+---
+
+## 👨‍🎓 Equipe de Desenvolvimento  
+
+- Ana Júlia Conceição da Silva – RA 25002592
+- Eduarda Prado Deiró – RA XXXXXXX  
+- Marília Sara Pereira dos Santos – RA XXXXXXX  
+- Sofia de Sousa – RA XXXXXXX  
+
+---
+
+## 👩‍🏫 Professores Orientadores  
+
+- Prof. Me. Mateus Dias – mateus.dias@puc-campinas.edu.br  
+- Profa. Dra. Renata Arantes – renata.arantes@puc-campinas.edu.br  
+- Prof. Dr. Luã Muriana – lua.marcelo@puc-campinas.edu.br  
+
+---
