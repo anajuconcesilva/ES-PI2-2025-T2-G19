@@ -35,7 +35,7 @@ O **NotaDez** tem como objetivo auxiliar professores do ensino superior no **ger
 
 - Ana Júlia Conceição da Silva – RA 25002592
 - Eduarda Prado Deiró – RA 25004440
-- Marília Sara Pereira dos Santos – RA XXXXXXX  
+- Marília Sara Pereira dos Santos – RA 25014905  
 - Sofia de Sousa – RA 25005435
 
 ---
