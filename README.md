@@ -34,7 +34,7 @@ O **NotaDez** tem como objetivo auxiliar professores do ensino superior no **ger
 ## 👨‍🎓 Equipe de Desenvolvimento  
 
 - Ana Júlia Conceição da Silva – RA 25002592
-- Eduarda Prado Deiró – RA XXXXXXX  
+- Eduarda Prado Deiró – RA 25004440
 - Marília Sara Pereira dos Santos – RA XXXXXXX  
 - Sofia de Sousa – RA 25005435
 
