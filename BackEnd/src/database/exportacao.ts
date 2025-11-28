@@ -1,7 +1,5 @@
 // Autora: Ana Júlia Conceição da Silva
 
-
-
 import { Request, Response } from "express";                 // Importa tipos do Express
 import { PoolConnection, RowDataPacket } from "mysql2/promise"; // Tipos para MySQL
 import pool from "./connection";

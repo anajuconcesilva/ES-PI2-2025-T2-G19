@@ -51,6 +51,7 @@ export async function addDocente(Nome_Docente: string, Email: string, Telefone_C
     conn.release();
   }
 }
+
 // Enviar link para redefinição
 export const forgotPassword = async (req: Request, res: Response) => {
   const { email } = req.body;

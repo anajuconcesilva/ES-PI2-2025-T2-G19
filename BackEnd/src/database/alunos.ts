@@ -1,4 +1,3 @@
-//Autora: Sofia de Souza
 
 import { Request, Response } from "express";
 import { pool } from "../database/connection";

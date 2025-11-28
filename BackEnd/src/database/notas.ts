@@ -24,7 +24,7 @@ export async function alunoExiste(idAluno: number): Promise<boolean> {
     }
 }
 
-// 🔎 Verifica se componente existe
+// Verifica se componente existe
 export async function componenteExiste(idComponente: number): Promise<boolean> {
     const conn: PoolConnection = await pool.getConnection();
     try {
@@ -38,7 +38,7 @@ export async function componenteExiste(idComponente: number): Promise<boolean> {
     }
 }
 
-// 📌 Registrar nota
+//  Registrar nota
 export async function registrarNota(
     idAluno: number,
     idComponente: number,
@@ -69,7 +69,7 @@ export async function registrarNota(
     }
 }
 
-// 📌 Atualizar nota
+//  Atualizar nota
 export async function atualizarNota(
     id: number,
     nota: number
